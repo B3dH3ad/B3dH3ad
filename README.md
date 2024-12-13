@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B3dH3ad
-- 👀 I’m interested in data analysis and game development.
-- 🌱 I’m currently learning python, unity, and c#
+- 👀 I’m interested in data analysis and full-stack development
+- 🌱 I’m currently learning Python, Javascript, HTML/CSS, and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
