@@ -1,6 +1,5 @@
 <h2> 👋 Hi, I’m Riley Dunnaway </h2>
-<p><em> Quantitative Developer </em></p>
-<p><em>Mathematician</em></p>
+<p><em> Quantitative Developer and Mathematician </em></p>
 
 Experienced in Machine Learning, Statistical Analysis, Mathematical Programming, and Finance, but seeking to explore all areas of programming.
 
