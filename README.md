@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @B3dH3ad
-- 👀 I’m interested in Machine Learning, Statistical Analysis, Mathematical Programming, and anything else challenging
-- 🌱 Most frequently use Python, but I have exposure to VBA, C++, and HTML/CSS
-- 💞️ I’m looking to collaborate on projects in machine learning
-- 📫 How to reach me ...
+- 👀 I’m a mathematician by education, a quantitative developer by profession focused on fixed-income security and interest rate modeling, and a programming hobbyist
+- Interested in Machine Learning, Statistical Analysis, Mathematical Programming, and anything else challenging
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
 
 <!---
 B3dH3ad/B3dH3ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
