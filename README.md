@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m @B3dH3ad </h2>
+<h2> 👋 Hi, I’m Riley Dunnaway </h2>
 <p><em> Quantitative Developer </em></p>
 <p><em>Mathematician</em></p>
 
