@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @B3dH3ad
-- 👀 I’m a mathematician by education, a quantitative developer by profession focused on fixed-income security and interest rate modeling, and a programming hobbyist
-- Interested in Machine Learning, Statistical Analysis, Mathematical Programming, and anything else challenging
+<h2> 👋 Hi, I’m @B3dH3ad </h2>
+<p><em> Quantitative Developer </em></p>
+<p><em>Mathematician</em></p>
+
+Experienced in Machine Learning, Statistical Analysis, Mathematical Programming, and Finance, but seeking to explore all areas of programming.
 
 ### Languages
 
